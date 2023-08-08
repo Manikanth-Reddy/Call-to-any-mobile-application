@@ -24,4 +24,3 @@ For questions or suggestions, you can reach out to me at manikanth18100@protonma
 
 Let's stay connected and make communication effortless with SpringCallConnect at Manikanth Reddy's Java Junction! 😄🌟👨‍💻
 
-Replace the placeholder image URL, email, and other details with your specific information. This template provides a detailed structure for a README file for the SpringCallConnect project within your "Manikanth Reddy's Java Junction" repository.
